@@ -1,0 +1,27 @@
+{
+  "name": "colorify-console",
+  "version": "1.0.0",
+  "description": "A library to colorify your console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afzalimamias/colorify-console.git"
+  },
+  "keywords": [
+    "console logs",
+    "colorify logs",
+    "console log colors"
+  ],
+  "author": "Afzal Imam <afzalimamias@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afzalimamias/colorify-console/issues"
+  },
+  "homepage": "https://github.com/afzalimamias/colorify-console#readme",
+  "files": ["lib/**/*"]
+}
