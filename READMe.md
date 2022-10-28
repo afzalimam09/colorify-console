@@ -1,4 +1,4 @@
-# Colorify-Afzal
+# Colorify-b-Console
 
 A npm library to colorify your browser console logs build with typescript
 
